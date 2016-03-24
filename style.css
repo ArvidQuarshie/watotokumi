@@ -1,5 +1,5 @@
 body{
-	background-color: #52a4ff;
+	background-color:#FCEBB6 ;
 	
 }
 #right{
@@ -10,8 +10,9 @@ height:1600px;
 }
 
 #header{
-	background-color:#4374af;
-	color: white;
+	background-color:
+	color:#E412F5;
+
 	text-align: center;
 	padding:10px;
 }
@@ -26,7 +27,7 @@ width: 180px;
 	float :left;
 }
 
-
+v
 #main{
 width:800px;
 	float:right;
@@ -37,7 +38,7 @@ width:800px;
 #footer{
 clear:both;
 padding:10px;
-background-color: #2ac3e8;
+background-color: #FCEBB6;
 text-align: center;
 }
 h1,h2, h3{
