@@ -2,7 +2,12 @@ body{
 	background-color: #52a4ff;
 	
 }
-
+#right{
+width:600px;
+float:right;
+background-color:red;	
+height:1600px;
+}
 
 #header{
 	background-color:#4374af;
@@ -23,7 +28,7 @@ width: 180px;
 
 
 #main{
-width:600px;
+width:800px;
 	float:right;
 	border-style:ridged;
 
