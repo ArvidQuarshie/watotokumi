@@ -23,8 +23,10 @@ float:left;
 }
 
 #nav {
-width: 180px;
+width: 30%;
+    height:100%;
 	float :left;
+    background-color: azure;
 }
 
 v
